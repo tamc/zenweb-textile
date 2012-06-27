@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/zenweb/textile
+lib/zenweb/textile.rb
+test/test_zenweb/textile.rb
