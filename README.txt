@@ -1,14 +1,14 @@
 = zenweb-textile
 
-* FIX (url)
+* Source :: http://github.com/tamc/zenweb-textile
 
 == DESCRIPTION:
 
-FIX (describe your package)
+A plugin for zenweb to process .textile files with RedCloth
 
 == FEATURES/PROBLEMS:
 
-* FIX (list of features or problems)
+* Doesn't work yet!
 
 == SYNOPSIS:
 
@@ -16,7 +16,7 @@ FIX (describe your package)
 
 == REQUIREMENTS:
 
-* FIX (list of requirements)
+* RedCloth 
 
 == INSTALL:
 
@@ -35,7 +35,7 @@ and generate the RDoc.
 
 (The MIT License)
 
-Copyright (c) 2012 FIX
+Copyright (c) 2012 Tom Counsell
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
