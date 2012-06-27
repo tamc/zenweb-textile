@@ -8,19 +8,28 @@ A plugin for zenweb to process .textile files with RedCloth
 
 == FEATURES/PROBLEMS:
 
-* Doesn't work yet!
+* Only implements basic parsing of .textile files. 
+* No helper methods yet.
+* No ability to customise RedCloth options yet
 
 == SYNOPSIS:
 
-  FIX (code sample of usage)
+If you want to use .textile pages in your zenweb site then:
+   
+   gem install zenweb-textile
+
+and in the Rakefile in your site add
+
+   require 'zenweb-textile'
 
 == REQUIREMENTS:
 
+* Zenweb 3.0.0.b3
 * RedCloth 
 
 == INSTALL:
 
-* FIX (sudo gem install, anything else)
+   sudo gem install zenweb-textile
 
 == DEVELOPERS:
 
