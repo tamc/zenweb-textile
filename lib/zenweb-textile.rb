@@ -1,7 +1,7 @@
 require 'zenweb'
 
 module ZenwebTextile
-  VERSION = '1.0.0'
+  VERSION = '0.0.1'
 end
 
 module Zenweb

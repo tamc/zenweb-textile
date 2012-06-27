@@ -3,6 +3,6 @@ History.txt
 Manifest.txt
 README.txt
 Rakefile
-bin/zenweb_textile
-lib/zenweb-textile/zenweb-textile.rb
+lib/zenweb-textile.rb
+test/2012-01-05-page4.html.textile
 test/test_zenweb_textile.rb
